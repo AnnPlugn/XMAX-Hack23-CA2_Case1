@@ -4,7 +4,7 @@ import os
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-folder_path = 'C:/Users/aplyg/PycharmProjects/X-max_CA_2/Analyse/3Months(files.csv)'
+folder_path = 'C:/Users/aplyg/PycharmProjects/X-max_CA_2/Новая папка'
 file_names = os.listdir(folder_path)
 morning_range = ('06:00:00', '09:59:59')
 day_range = ('10:00:00', '17:59:59')
